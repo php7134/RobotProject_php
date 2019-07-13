@@ -19,6 +19,10 @@ MySecondTest
     Remove Tags  Regression1  
 MyThirdTest
     Log    Inside 3 test.... 
+    
+MyForthTest
+    Log    Inside 4 test....
+    
 # FirstSeleniumTest
     
   # Open Browser    https://google.com  chrome  
